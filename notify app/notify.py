@@ -82,7 +82,7 @@ keywords= ["jobs", "hiring", "vacancy", "project",
     "salary", "deal", "wage", "account", "linked", "hats", "weekly"]
 
 Telegram_chat_ID= os.getenv("7575524175")
-Telegram_Bot_Token = os.getenv("7950022254:AAGD34I85A5L3GjeHnvBRy9-SDzIn21PV70")
+Telegram_Bot_Token = os.getenv("7950022254:AAGD34IBRy9-SDzIn21PV70")
 
 
 def tele(text):
@@ -141,4 +141,5 @@ def main():
         time.sleep(60)
 
 if __name__=="__main__":
+
     main()
